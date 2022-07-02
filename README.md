@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @cesarco
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi everyone 👋
+😄
+
+Java POO HTML CSS Python SQL
 
 <!---
 cesarco/cesarco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
