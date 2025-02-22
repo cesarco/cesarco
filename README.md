@@ -2,7 +2,6 @@
 **`Desarrollador Full Stack | Especialista en PHP y JavaScript`**  
 
 📍 **Ubicación**: Bogotá D.C., Colombia  
-📅 **Fecha de nacimiento**: 20 de diciembre de 2001  
 📧 **Correo**: devcesarco@outlook.es  
 
 ---
@@ -25,34 +24,6 @@ Desarrollador de software con 2+ años de experiencia en el diseño e implementa
 - Integración continua  
 - Control de versiones (Git/GitHub)  
 - Diseño de interfaces de usuario  
-
----
-
-## 💼 **Experiencia Laboral**  
-### **Desarrollador de Software** @ Pegasus Software S.A.S  
-**📅 Noviembre 2022 - Enero 2025 | Villavicencio, Colombia**  
-- Refactorización y optimización de código legacy en PHP/JavaScript.  
-- Colaboración con equipos multidisciplinarios para implementar nuevas funcionalidades.  
-- Mentoría a desarrolladores junior en buenas prácticas y resolución de problemas.  
-- Diseño de interfaces de usuario en colaboración con equipos de diseño.  
-
-### **Practicante de Soporte Técnico** @ Liga Contra el Cáncer Seccional Meta  
-**📅 Enero 2020 - Agosto 2020 | Villavicencio, Colombia**  
-- Mantenimiento preventivo de equipos de cómputo.  
-- Instalación y actualización de software (Windows/Linux).  
-- Administración de redes cableadas.  
-
----
-
-## 📚 **Educación**  
-- **Ingeniería de Sistemas**  
-  Universidad Nacional Abierta y a Distancia (UNAD)  
-- **Técnico en Bases de Datos**  
-  Fundación Universitaria Compensar  
-- **Misión TIC 2022**  
-  Universidad Sergio Arboleda  
-- **Técnico en Sistemas**  
-  SENA  
 
 ---
 
