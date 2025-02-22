@@ -1,9 +1,5 @@
 # 👋 ¡Hola! Soy César Luis Rodríguez Solera 
 **`Desarrollador Full Stack | Especialista en PHP y JavaScript`**  
-
-📍 **Ubicación**: Bogotá D.C., Colombia  
-📧 **Correo**: devcesarco@outlook.es  
-
 ---
 
 ## 🚀 **Resumen Profesional**  
