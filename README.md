@@ -1,62 +1,79 @@
-# 👋 Hello! I'm César Luis Rodríguez Solera  
-**`Full-Stack Developer | PHP, JavaScript & Node.js Specialist`**
+# 👋 Welcome! I'm César Luis Rodríguez Solera
+
+## 💻 About Me
+
+I'm a **Full-Stack Web Developer** from Colombia 🇨🇴 with a strong passion for building **scalable**, **efficient**, and **user-friendly** web applications.
+
+- 👨‍💻 I specialize in **PHP**, **JavaScript (TypeScript)**, and **Node.js**.
+- 🔍 Focused on backend development, RESTful APIs, and clean code architecture.
+- 🤝 I love collaborating in teams, pair programming, and contributing to open source.
+- 🚀 Always learning and exploring new technologies.
 
 ---
 
-## 🚀 About Me  
-I'm a passionate **software developer** with over **2 years of experience** in designing and implementing dynamic, scalable, and efficient web applications.  
-I specialize in **PHP**, **JavaScript**, and **MySQL**, with strong backend skills and growing expertise in modern frontend technologies and RESTful API integration.
+## 🛠️ Tech Stack & Tools
 
-I enjoy solving complex problems, collaborating in teams, and following best development practices to build high-quality, maintainable software.
-
----
-
-## 🛠️ Technical Skills  
-
-### Languages & Technologies  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Tools & Frameworks  
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
+</div>
 
 ---
 
-## 📌 Highlighted Projects
+## 🚀 Highlight Projects
 
-- 🎓 **Certification platform** with secure user roles, dynamic quizzes, and downloadable PDF certificates.  
-- 🛍️ **Custom online store** using WooCommerce with upsells, enhanced checkout flow, and custom plugins.  
-- 🔧 **Site maintenance & recovery** of compromised WordPress websites (malware removal, performance tuning).  
-- 🎨 **Figma-to-Web translation** using responsive design and accessibility best practices.
+- 🎓 **Certification Platform**  
+  Dynamic quizzes, user authentication, and PDF certificates.
+
+- 🛍️ **WooCommerce Custom Store**  
+  Checkout optimization, upsells, and custom plugin development.
+
+- 🔐 **Security Recovery for WordPress**  
+  Malware removal, hardening, and speed improvements.
+
+- 📱 **Responsive Figma to Web**  
+  Pixel-perfect design implementations using accessibility best practices.
 
 ---
 
 ## 📚 Currently Learning
 
-- 🔁 **React** for modern frontend application development.  
-- 🌐 **Advanced REST APIs** using Node.js and Express.  
-- 🔒 **Security best practices** including JWT and OAuth authentication.
+- ⚛️ **React.js** – Building dynamic UIs and component architecture  
+- 🔐 **JWT & OAuth2** – Secure authentication for REST APIs  
+- 📦 **Docker** – Containerizing development environments
 
 ---
 
-## 📫 Connect with Me
+## 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcesarco/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cesarco)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=cesarco&theme=tokyonight&hide_border=true)](https://github.com/cesarco)-->
+
+<!-- 🏆 GitHub Trophies (Optional) -->
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cesarco&theme=tokyonight&no-frame=true&row=1)](https://github.com/cesarco)
+
 
 ---
 
-## 🌟 Quote That Inspires Me  
+### 📫 Connect with Me
+
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017e4130c88c4a6da2)
+
+---
+
+## 🌟 Personal Motto
+
 > *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*  
-— Antoine de Saint-Exupéry
-
----
+> — Antoine de Saint-Exupéry
